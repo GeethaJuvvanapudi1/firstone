@@ -1,0 +1,74 @@
+
+
+
+
+
+.couple{
+    border-style: groove;
+    border-color:yellowgreen;
+    float: left;
+    width:17%;
+    padding: 10px;
+    margin:5px;
+    position:relative;
+    top:-6px;
+}
+.kids{
+    border-style: groove;
+    border-color:yellowgreen;
+    float: left;
+    width:17%;
+    padding: 10px;
+    margin:5px;
+    position:relative;
+    top:-40px;
+   
+}
+.electric{
+    border-style: groove;
+    border-color:yellowgreen;
+    float: left;
+    width:17%;
+    padding: 10px;
+    margin:5px;
+    position:relative;
+    top:-75px;
+   
+}
+.furniture{
+    border-style: groove;
+    border-color:yellowgreen;
+    float: left;
+    width:17%;
+    padding: 10px;
+    margin:5px;
+    position:relative;
+    top:-110px;
+   
+}
+.toys{
+    border-style: groove;
+    border-color:yellowgreen;
+    float: left;
+    width:17%;
+    margin:5px;
+    position:relative;
+    top:-145px;
+    padding:10px;
+   
+}
+.list1{
+    position: relative;
+    top:-110px;
+}
+.list2{
+    float: left;
+    width:20%;
+}
+li:hover{
+    background: yellow;
+    width:75px;
+}
+
+
+    
